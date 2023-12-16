@@ -22,4 +22,4 @@ Check out the live demo of the Bubble Estimator Game: [Live Demo](https://volubl
 ## Watch on Youtube:
 
 
-[![YouTube Video](https://www.youtube.com/watch?v=X_uD39rsyrM)](https://www.youtube.com/watch?v=X_uD39rsyrM)
+[![YouTube Video](https://img.youtube.com/vi/X_uD39rsyrM/0.jpg)](https://www.youtube.com/watch?v=X_uD39rsyrM)
