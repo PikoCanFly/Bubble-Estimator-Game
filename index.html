@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>EstimatorTrainer</title>
+	<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+	<h5 id="user-score">score:0</h5>
+	<div id="question">
+	<label>Estimate the number of bubbles!</label>
+		<br/>
+		<input id="input-area" name="input"/>
+		<button id="submit-answer">Submit</button>
+		<div id="result-div">
+			<p id="result"></p>
+			<button id="restart-game">Again!</button>
+		</div>
+	</div>
+	<button id="rules">?</button>
+	<div id="rules-box">
+		<h1>Rules:</h1>
+		<p>Guess the number of bubbles!</p>
+		<p>Guessing the exact number +100</p>
+		<p>Guessing less than 20% off +50</p>
+		<p>Guessing less than 45% off +25</p>
+		<h3>Shortcuts:</h3>
+		<p>Hit Enter to submit answer.</p>
+		<p>Hit space to start/restart game.</p>
+	</div>
+	<button id="start-game">Start Game</button>
+	<script src="index.js"></script>
+</body>
+</html>
